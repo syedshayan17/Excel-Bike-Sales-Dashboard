@@ -8,4 +8,4 @@ Title: "Bike Sales Analysis Dashboard" Tool used: Excel.
 
 2) Created Pivot Tables for summarizing data and perform various calculation for the visualizations. 
 
-3) Created interactive Dashboard using Bar chart, Line chart, Column chart and Slicers for further filteration. 📊
+3) Created interactive Dashboard using Bar chart, Line chart, Column chart and Slicers for further filteration. 📊.
